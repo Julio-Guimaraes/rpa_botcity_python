@@ -1,0 +1,14 @@
+MANIFEST.in
+README.md
+VERSION
+requirements.txt
+setup.py
+botyt/__init__.py
+botyt/__main__.py
+botyt/bot.py
+botyt.egg-info/PKG-INFO
+botyt.egg-info/SOURCES.txt
+botyt.egg-info/dependency_links.txt
+botyt.egg-info/requires.txt
+botyt.egg-info/top_level.txt
+botyt/resources/start.png
